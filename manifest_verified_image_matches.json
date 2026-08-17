@@ -1,0 +1,892 @@
+[
+  {
+    "doom_code": "200072",
+    "doom_name": "A-LAX 30TAB",
+    "doom_barcode": "766961000038",
+    "vera_internal_reference": "2B4TJN",
+    "vera_name": "A-Lax Laxative Tablet 30",
+    "matched_barcode": "766961000038",
+    "image_file": "2B4TJN.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200033",
+    "doom_name": "ACM SEBIONEX SOAP",
+    "doom_barcode": "3760095253282",
+    "vera_internal_reference": "8IPU44",
+    "vera_name": "ACM SEBIONEX PURIFYING DERMATOLOGICAL BAR",
+    "matched_barcode": "3760095253282",
+    "image_file": "8IPU44.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200436",
+    "doom_name": "ACM SEBIONEX GEL 200ML",
+    "doom_barcode": "3760095250274",
+    "vera_internal_reference": "PW17E1",
+    "vera_name": "ACM Sebionex Foaming Gel 200ml",
+    "matched_barcode": "3760095250274",
+    "image_file": "PW17E1.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101175",
+    "doom_name": "ACM SEBIONEX CREAM",
+    "doom_barcode": "3760095252315",
+    "vera_internal_reference": "UH42BG",
+    "vera_name": "ACM Sebionex Hydra Repair Cream 40ml",
+    "matched_barcode": "3760095252315",
+    "image_file": "UH42BG.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200736",
+    "doom_name": "ACM SENSITELIAL BAR 100G",
+    "doom_barcode": "3760095253275",
+    "vera_internal_reference": "10DC2G",
+    "vera_name": "ACM Sensitelial BAR 100 g",
+    "matched_barcode": "3760095253275",
+    "image_file": "10DC2G.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101220",
+    "doom_name": "ALCOHOL SWAB 100",
+    "doom_barcode": "(01)36975486450357",
+    "vera_internal_reference": "9BBEVF",
+    "vera_name": "ALCOHOL PAD 100Pcs",
+    "matched_barcode": "(01)36975486450357",
+    "image_file": "9BBEVF.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101328",
+    "doom_name": "ARS LIQUID 360 HOURS/45DAYS",
+    "doom_barcode": "8850273888810",
+    "vera_internal_reference": "1UV46R",
+    "vera_name": "ARS 45 Days 360H Mosquito Killer Liquid Refill 45ml",
+    "matched_barcode": "8850273888810",
+    "image_file": "1UV46R.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101329",
+    "doom_name": "ARS LIQUID 720 HOURS/90DAYS",
+    "doom_barcode": "8850273888827",
+    "vera_internal_reference": "R83RQN",
+    "vera_name": "ARS 90 Days 720H Mosquito Killer Liquid Refill 45ml",
+    "matched_barcode": "8850273888827",
+    "image_file": "R83RQN.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101332",
+    "doom_name": "ARS SLIM CORDLESS MECHINE",
+    "doom_barcode": "8808394310017",
+    "vera_internal_reference": "22AG65",
+    "vera_name": "ARS Electronic Mosquito Killer 110V/240V",
+    "matched_barcode": "8808394310017",
+    "image_file": "22AG65.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101374",
+    "doom_name": "AXIS-Y SERUM",
+    "doom_barcode": "8809634610034",
+    "vera_internal_reference": "SKU-1642\n",
+    "vera_name": "AXIS-Y Glow Serum to correct dark spots - 50 ml",
+    "matched_barcode": "8809634610034",
+    "image_file": "SKU-1642.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101162",
+    "doom_name": "ACCU-CHEK ACTIVE 50 STRIPS",
+    "doom_barcode": "4015630064007",
+    "vera_internal_reference": "XS3DAR",
+    "vera_name": "Accu Chek, Active Strips - 50 Pcs",
+    "matched_barcode": "4015630064007",
+    "image_file": "XS3DAR.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200017",
+    "doom_name": "ACCUFAST PREGNANCY TEST RED",
+    "doom_barcode": "6957290309037",
+    "vera_internal_reference": "SKU-1643",
+    "vera_name": "Accufast One Step Midstream Hcg Pregnancy Test M30-A",
+    "matched_barcode": "6957290309037",
+    "image_file": "SKU-1643.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101213",
+    "doom_name": "AL DIAFA TEA 25",
+    "doom_barcode": "8413700103971",
+    "vera_internal_reference": "161V8K",
+    "vera_name": "Al Diafa Tea Al Diafa - 25 bags",
+    "matched_barcode": "8413700103971",
+    "image_file": "161V8K.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200210",
+    "doom_name": "ALOE DENT MISWAK 100ML T/P",
+    "doom_barcode": "5029354006983",
+    "vera_internal_reference": "GSA972",
+    "vera_name": "AloeDent Miswak Toothpaste 100ml",
+    "matched_barcode": "5029354006983",
+    "image_file": "GSA972.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200202",
+    "doom_name": "ALOE DENT SENSITVE MOUTH WASH",
+    "doom_barcode": "5029354007300",
+    "vera_internal_reference": "155NP4",
+    "vera_name": "AloeDent Mouthwash Sensitive Aloe Vera 250ml",
+    "matched_barcode": "5029354007300",
+    "image_file": "155NP4.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200142",
+    "doom_name": "ALOEDENT T/P ANTI- SMOKERS100M",
+    "doom_barcode": "5029354012663",
+    "vera_internal_reference": "ABT0HZ",
+    "vera_name": "AloeDent Smokers ToothPaste 100ml",
+    "matched_barcode": "5029354012663",
+    "image_file": "ABT0HZ.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200627",
+    "doom_name": "ALOE DENT WHITENING 100ML T/PA",
+    "doom_barcode": "5029354002947",
+    "vera_internal_reference": "H8WV2J",
+    "vera_name": "AloeDent Whitening toothpaste -100 ml",
+    "matched_barcode": "5029354002947",
+    "image_file": "H8WV2J.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101080",
+    "doom_name": "Always Feminine Pads Aloe Cool Maxi Thick Large - 50 Pcs",
+    "doom_barcode": "4015400245940",
+    "vera_internal_reference": "D41Y80",
+    "vera_name": "Always Clean & Dry Maxi Thick Large Pad 50",
+    "matched_barcode": "4015400245940",
+    "image_file": "D41Y80.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101258",
+    "doom_name": "Always Feminine Pads Cotton Soft Maxi Thick Large - 50 Pcs",
+    "doom_barcode": "4015400531852",
+    "vera_internal_reference": "SKU-1278\n",
+    "vera_name": "Always Cotton Soft Maxi Thick Large Pad 50 Pink",
+    "matched_barcode": "4015400531852",
+    "image_file": "SKU-1278.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101083",
+    "doom_name": "Always Feminine Pads Night Maxi Thick With Wings - 24 Pcs",
+    "doom_barcode": "4015400258964",
+    "vera_internal_reference": "Q53N45",
+    "vera_name": "Always Night XL Maxi Thick Pad 24",
+    "matched_barcode": "4015400258964",
+    "image_file": "Q53N45.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100061",
+    "doom_name": "APISAL NASAL SPRAY",
+    "doom_barcode": "6251151000829",
+    "vera_internal_reference": "XA37CN",
+    "vera_name": "Apisal 0.74% Nasal Spray 15ml",
+    "matched_barcode": "6251151000829",
+    "image_file": "XA37CN.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200103",
+    "doom_name": "APISAL JET BABY",
+    "doom_barcode": "6251151001369",
+    "vera_internal_reference": "0YOHGF",
+    "vera_name": "Apisal Jet Dead Sea Children & Adult 0.9% Nasal Spray 125ml",
+    "matched_barcode": "6251151001369",
+    "image_file": "0YOHGF.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104723",
+    "doom_name": "APTAMIL-1 400GM none",
+    "doom_barcode": "8718117603114",
+    "vera_internal_reference": "XLAP05",
+    "vera_name": "Aptamil 1 Milk 400g",
+    "matched_barcode": "8718117603114",
+    "image_file": "XLAP05.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104727",
+    "doom_name": "APTAMIL-3 400GM",
+    "doom_barcode": "8718117603176",
+    "vera_internal_reference": "6PBY33\n",
+    "vera_name": "Aptamil 3 Milk 400g",
+    "matched_barcode": "8718117603176",
+    "image_file": "6PBY33.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100065",
+    "doom_name": "AQUALYTE 240ML",
+    "doom_barcode": "6288030000359",
+    "vera_internal_reference": "7Z2SG5",
+    "vera_name": "Aqualyte Apple Solution 240ml",
+    "matched_barcode": "6288030000359",
+    "image_file": "7Z2SG5.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "0000005753",
+    "doom_name": "Arko men shaving cream senstive",
+    "doom_barcode": "8690506527860",
+    "vera_internal_reference": "sku-9vv",
+    "vera_name": "Arko Men Shaving Cream Sensitive 90 Gm",
+    "matched_barcode": "8690506527860",
+    "image_file": "sku-9vv.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "0000005760",
+    "doom_name": "ARko shaving gel anti arritation",
+    "doom_barcode": "8690506477264",
+    "vera_internal_reference": "SKU-1648",
+    "vera_name": "Arko shaving gel anti-irritation for men 200 ml",
+    "matched_barcode": "8690506477264",
+    "image_file": "SKU-1648.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200776",
+    "doom_name": "AZINC OPTIMAL 60TAB",
+    "doom_barcode": "3578830123536",
+    "vera_internal_reference": "UJ3563",
+    "vera_name": "Arkopharma Azinc Optimal Capsule 60",
+    "matched_barcode": "3578830123536",
+    "image_file": "UJ3563.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100218",
+    "doom_name": "CHARBON 45CAP",
+    "doom_barcode": "3578830110444",
+    "vera_internal_reference": "TQM0XN",
+    "vera_name": "Arkopharma Charbon Capsule 45",
+    "matched_barcode": "3578830110444",
+    "image_file": "TQM0XN.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100071",
+    "doom_name": "ARTELAC 0.2% ADVANCED UD 30D EYE FROPS",
+    "doom_barcode": "4030571004066",
+    "vera_internal_reference": "5I808E",
+    "vera_name": "Artelac Advanced 0.2% SDU Eye Drop 30x0.5ml",
+    "matched_barcode": "4030571004066",
+    "image_file": "5I808E.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100072",
+    "doom_name": "ARTELAC NIGHT TIME GEL",
+    "doom_barcode": "4030571008347",
+    "vera_internal_reference": "AY8CD0",
+    "vera_name": "Artelac Night Time Eye Gel 10g",
+    "matched_barcode": "4030571008347",
+    "image_file": "AY8CD0.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200670",
+    "doom_name": "ASTROGLIDE 118ML GEL",
+    "doom_barcode": "015594011134",
+    "vera_internal_reference": "B76MM8",
+    "vera_name": "Astroglide Lubricant Gel 118ml",
+    "matched_barcode": "015594011134",
+    "image_file": "B76MM8.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200254",
+    "doom_name": "ASTROGLIDE 35ML",
+    "doom_barcode": "015594010069",
+    "vera_internal_reference": "FM9NHN",
+    "vera_name": "Astroglide Lubricant Gel 35ml",
+    "matched_barcode": "015594010069",
+    "image_file": "FM9NHN.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101343",
+    "doom_name": "ASTROGLIDE STRAWBERRY 74ML",
+    "doom_barcode": "015594011455",
+    "vera_internal_reference": "0N2O18",
+    "vera_name": "Astroglide Strawberry Liquid Lubricant Gel 73.9ml",
+    "matched_barcode": "015594011455",
+    "image_file": "0N2O18.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200084",
+    "doom_name": "ASTROGLIDE 35ML GEL STRAWBERRY",
+    "doom_barcode": "015594010830",
+    "vera_internal_reference": "AA4050",
+    "vera_name": "Astroglide Strawberry Lubricant 35ml",
+    "matched_barcode": "015594010830",
+    "image_file": "AA4050.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200160",
+    "doom_name": "AVOHEX 300ML",
+    "doom_barcode": "6285095000294",
+    "vera_internal_reference": "1VR13H",
+    "vera_name": "Avalon Avohex Mouthwash 300ml",
+    "matched_barcode": "6285095000294",
+    "image_file": "1VR13H.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104732",
+    "doom_name": "AVENT ANTI-COLIC 2PCS 260ML",
+    "doom_barcode": "8710103868453",
+    "vera_internal_reference": "SKU-1618",
+    "vera_name": "Avent Anti Colic 1M+ Feeding Bottle 2x260ml",
+    "matched_barcode": "8710103868453",
+    "image_file": "SKU-1618.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104766",
+    "doom_name": "AVINT ANTI-COLIC 330ML",
+    "doom_barcode": "8710103868743",
+    "vera_internal_reference": "3BLUBW",
+    "vera_name": "Avent Anti Colic 3M+ Feeding Bottle 330ml SCF816/61",
+    "matched_barcode": "8710103868743",
+    "image_file": "3BLUBW.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104757",
+    "doom_name": "AVENT CLASSIC PLUS NIPPLE 6m+ 2PSC (SCF634/27)",
+    "doom_barcode": "5012909010931",
+    "vera_internal_reference": "4IKFR0",
+    "vera_name": "Avent Classic 6M+ Flow 4 Nipple  -2Pcs",
+    "matched_barcode": "5012909010931",
+    "image_file": "4IKFR0.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "0000006922",
+    "doom_name": "Bioderma foaming cream for sensitive skin 200 ml",
+    "doom_barcode": "3701129800546",
+    "vera_internal_reference": "VKKG55",
+    "vera_name": "BIODERMA Pigmentibo Foaming Cream 200ml",
+    "matched_barcode": "3701129800546",
+    "image_file": "VKKG55.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104947",
+    "doom_name": "BLEVIT WHEAT 350G",
+    "doom_barcode": "8426594136581",
+    "vera_internal_reference": "SKU-1653\n",
+    "vera_name": "BLEVIT PLUS WHEAT + MILK CEREAL 350gm",
+    "matched_barcode": "8426594136581",
+    "image_file": "SKU-1653.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104823",
+    "doom_name": "BABY JOY NO1 BOX 136PCS",
+    "doom_barcode": "6281008929904",
+    "vera_internal_reference": "SKU-1564\n",
+    "vera_name": "Baby Joy 1 Diapers BOX 136",
+    "matched_barcode": "6281008929904",
+    "image_file": "SKU-1564.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104782",
+    "doom_name": "BABY JOY (3)  84",
+    "doom_barcode": "6281008288285",
+    "vera_internal_reference": "E3R2VK",
+    "vera_name": "Baby Joy 3 Diapers 84",
+    "matched_barcode": "6281008288285",
+    "image_file": "E3R2VK.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104848",
+    "doom_name": "BABY JOY(4) GIANT LARGE 74",
+    "doom_barcode": "6281008288384",
+    "vera_internal_reference": "B739RY",
+    "vera_name": "Baby Joy 4 Diapers 74",
+    "matched_barcode": "6281008288384",
+    "image_file": "B739RY.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104794",
+    "doom_name": "BABY JOY (5) GIANT JUNIOR 66",
+    "doom_barcode": "6281008288483",
+    "vera_internal_reference": "WQ55AQ",
+    "vera_name": "Baby Joy 5 Diapers 66",
+    "matched_barcode": "6281008288483",
+    "image_file": "WQ55AQ.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104849",
+    "doom_name": "BABY JOY(6) BOX  60",
+    "doom_barcode": "6281008299526",
+    "vera_internal_reference": "SKU-1563",
+    "vera_name": "Baby Joy 6 Diapers BOX 60",
+    "matched_barcode": "6281008299526",
+    "image_file": "SKU-1563.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200747",
+    "doom_name": "BEESLINE ROLL ON 50ML YELLOW",
+    "doom_barcode": "5281018019023",
+    "vera_internal_reference": "SKU-1545",
+    "vera_name": "Beesline Deo Roll-On  Fragrance Free YELLOW 50ml",
+    "matched_barcode": "5281018019023",
+    "image_file": "SKU-1545.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200734",
+    "doom_name": "BEESLINE ROLL ON 50ML WHITENING",
+    "doom_barcode": "5281018003039",
+    "vera_internal_reference": "5C67A6",
+    "vera_name": "Beesline Deodorant Roll On Whitening Fragrance Free  50ml",
+    "matched_barcode": "5281018003039",
+    "image_file": "5C67A6.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200767",
+    "doom_name": "BEESLINE ROLL ON 50ML ROSE",
+    "doom_barcode": "5281018003152",
+    "vera_internal_reference": "9H4JK5",
+    "vera_name": "Beesline Deodorant Roll on Whitening Elder Rose  50ml",
+    "matched_barcode": "5281018003152",
+    "image_file": "9H4JK5.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200714",
+    "doom_name": "BEESLINE FACIAL SOAP 85G SENSITIVE",
+    "doom_barcode": "5281018004036",
+    "vera_internal_reference": "5P4EB0",
+    "vera_name": "Beesline Facial Purifying Soap Bar 85g",
+    "matched_barcode": "5281018004036",
+    "image_file": "5P4EB0.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200350",
+    "doom_name": "BEESLINE SUNSCREEN CREAM SPF50+",
+    "doom_barcode": "5281018006047",
+    "vera_internal_reference": "Y64JS5",
+    "vera_name": "Beesline Ultrascreen Spf50 Sunblock Invisible Cream 60ml",
+    "matched_barcode": "5281018006047",
+    "image_file": "Y64JS5.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101467",
+    "doom_name": "BEESLINE WHITENING FACIAL EXF. SOAP",
+    "doom_barcode": "5281018003114",
+    "vera_internal_reference": "SPEZXV",
+    "vera_name": "Beesline Whitening All Skin Types Soap Bar 60g",
+    "matched_barcode": "5281018003114",
+    "image_file": "SPEZXV.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100138",
+    "doom_name": "BEPANTHEN NAPPY CARE 100G",
+    "doom_barcode": "4057599005264",
+    "vera_internal_reference": "BAHG0W",
+    "vera_name": "Bepanthen Nappy Care Ointment 100g",
+    "matched_barcode": "4057599005264",
+    "image_file": "BAHG0W.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100145",
+    "doom_name": "Betadine Soln. 120ml",
+    "doom_barcode": "6281086110201",
+    "vera_internal_reference": "MHIW02",
+    "vera_name": "Betadine Antiseptic Solution 120ml",
+    "matched_barcode": "6281086110201",
+    "image_file": "MHIW02.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100143",
+    "doom_name": "BETADINE DRY POWDER SPRAY 55G",
+    "doom_barcode": "5291043000026",
+    "vera_internal_reference": "XEI00Z",
+    "vera_name": "Betadine Dry Powder Spray 55g",
+    "matched_barcode": "5291043000026",
+    "image_file": "XEI00Z.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100146",
+    "doom_name": "BETADINE VGINAL DOUCHE",
+    "doom_barcode": "6281086110225",
+    "vera_internal_reference": "AI11UT",
+    "vera_name": "Betadine Medicated Vaginal Douche 120ml",
+    "matched_barcode": "6281086110225",
+    "image_file": "AI11UT.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101487",
+    "doom_name": "BIGEN BEARD BLACK B101",
+    "doom_barcode": "8858838100018",
+    "vera_internal_reference": "10Y2DG",
+    "vera_name": "Bigen Men Beard Color B101 Black",
+    "matched_barcode": "8858838100018",
+    "image_file": "10Y2DG.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101490",
+    "doom_name": "BIGEN BEARD BROWN B102",
+    "doom_barcode": "8858838100025",
+    "vera_internal_reference": "7D7KAC",
+    "vera_name": "Bigen Men Beard Color B102 Brown Black",
+    "matched_barcode": "8858838100025",
+    "image_file": "7D7KAC.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101491",
+    "doom_name": "BIGEN BEARD BROWN B103 40",
+    "doom_barcode": "8858838100032",
+    "vera_internal_reference": "M1H66C",
+    "vera_name": "Bigen Men Beard Color B103 Dark Brown",
+    "matched_barcode": "8858838100032",
+    "image_file": "M1H66C.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101493",
+    "doom_name": "BIGEN BEARD BROWN B104",
+    "doom_barcode": "4549228105693",
+    "vera_internal_reference": "4CWON5",
+    "vera_name": "Bigen Men Beard Color B104 Brown",
+    "matched_barcode": "4549228105693",
+    "image_file": "4CWON5.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101494",
+    "doom_name": "BIGEN BEARD MEDIUM BROWN B105",
+    "doom_barcode": "4549228105709",
+    "vera_internal_reference": "SKU-1602\n",
+    "vera_name": "Bigen Men Beard Color B105 Medium Brown",
+    "matched_barcode": "4549228105709",
+    "image_file": "SKU-1602.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101503",
+    "doom_name": "BIGEN SPEEDY COLOR BLACK 881",
+    "doom_barcode": "4987205000126",
+    "vera_internal_reference": "7DPXU9",
+    "vera_name": "Bigen Speedy N881 Natural Black Hair Color Conditioner 40g",
+    "matched_barcode": "4987205000126",
+    "image_file": "7DPXU9.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101507",
+    "doom_name": "BIGEN SPEEDY COLOR BROWNISH 882",
+    "doom_barcode": "4987205000140",
+    "vera_internal_reference": "9601NP",
+    "vera_name": "Bigen Speedy N882 Brownish Black Hair Color Conditioner 40g",
+    "matched_barcode": "4987205000140",
+    "image_file": "9601NP.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101483",
+    "doom_name": "BIGEN 883 SPEEDY DARK BROWN",
+    "doom_barcode": "4987205000164",
+    "vera_internal_reference": "NZD1GL",
+    "vera_name": "Bigen Speedy N883 Dark Brown Hair Color Conditioner 40g",
+    "matched_barcode": "4987205000164",
+    "image_file": "NZD1GL.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101484",
+    "doom_name": "BIGEN 884 SPEEDY NATURAL BROWN",
+    "doom_barcode": "4987205001079",
+    "vera_internal_reference": "91PVOS",
+    "vera_name": "Bigen Speedy N884 Natural Brown Hair Color Conditioner 40g",
+    "matched_barcode": "4987205001079",
+    "image_file": "91PVOS.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101485",
+    "doom_name": "BIGEN 885 SPEEDY LIGHT BROWN",
+    "doom_barcode": "4987205931215",
+    "vera_internal_reference": "JZ2A53",
+    "vera_name": "Bigen Speedy N885 Light Brown Hair Color Conditioner 40g",
+    "matched_barcode": "4987205931215",
+    "image_file": "JZ2A53.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101529",
+    "doom_name": "BIO-OIL SKINCARE OIL 125ML",
+    "doom_barcode": "6001159113133",
+    "vera_internal_reference": "EQPOUY",
+    "vera_name": "Bio-Oil Skincare Oil 125ml",
+    "matched_barcode": "6001159113133",
+    "image_file": "EQPOUY.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200066",
+    "doom_name": "BIODERMA SEBIUM  GEL 500ML",
+    "doom_barcode": "3401399277092",
+    "vera_internal_reference": "NMPUZA",
+    "vera_name": "Bioderma Sebium Cleansing Foaming Gel 500ml",
+    "matched_barcode": "3401399277092",
+    "image_file": "NMPUZA.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200438",
+    "doom_name": "Bioderma Sebium Global Intensive Purifying Care - 30ml",
+    "doom_barcode": "3401360147508",
+    "vera_internal_reference": "SKU-1424\n",
+    "vera_name": "Bioderma Sebium Global Cream 30ml",
+    "matched_barcode": "3401360147508",
+    "image_file": "SKU-1424.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200435",
+    "doom_name": "Bioderma Sebium Hydra cream",
+    "doom_barcode": "3401348840421",
+    "vera_internal_reference": "5U5S1U",
+    "vera_name": "Bioderma Sebium Hydra Moisturising Cream 40ml",
+    "matched_barcode": "3401348840421",
+    "image_file": "5U5S1U.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101523",
+    "doom_name": "Bioderma Sebium Gel 200ml",
+    "doom_barcode": "3401578653709",
+    "vera_internal_reference": "J4SV61\n",
+    "vera_name": "Bioderma Sebium Moussant Active Foaming Gel Tube 200ml",
+    "matched_barcode": "3401578653709",
+    "image_file": "J4SV61.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200334",
+    "doom_name": "Aero Digest Capsule 24Pcs",
+    "doom_barcode": "5420024610002",
+    "vera_internal_reference": "K97A8L",
+    "vera_name": "Biolys AeroDigest Capsule 24",
+    "matched_barcode": "5420024610002",
+    "image_file": "K97A8L.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104931",
+    "doom_name": "BIOMIL-3 400gm",
+    "doom_barcode": "5412996101480",
+    "vera_internal_reference": "ETLNGR",
+    "vera_name": "Biomil Plus 3 Milk 400g",
+    "matched_barcode": "5412996101480",
+    "image_file": "ETLNGR.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104936",
+    "doom_name": "Blemil Plus Extra Milk (1) 600G",
+    "doom_barcode": "8426594092009",
+    "vera_internal_reference": "RF52EJ",
+    "vera_name": "Blemil Plus Extra 1 Milk 600g",
+    "matched_barcode": "8426594092009",
+    "image_file": "RF52EJ.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104935",
+    "doom_name": "BLEMIL PLUS EXTRA 2 600GM",
+    "doom_barcode": "8426594092016",
+    "vera_internal_reference": "ZM3LBO",
+    "vera_name": "Blemil Plus Extra 2 Milk 600g",
+    "matched_barcode": "8426594092016",
+    "image_file": "ZM3LBO.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104933",
+    "doom_name": "BLEMIL L.F 400GM none",
+    "doom_barcode": "8426594257057",
+    "vera_internal_reference": "AK61JL",
+    "vera_name": "Blemil Plus LF Milk 400g",
+    "matched_barcode": "8426594257057",
+    "image_file": "AK61JL.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104938",
+    "doom_name": "BLEMIL PLUS OPTIMUM 1 800 G",
+    "doom_barcode": "8426594119287",
+    "vera_internal_reference": "H2S2JN",
+    "vera_name": "Blemil Plus Optimum 1 Milk 800g",
+    "matched_barcode": "8426594119287",
+    "image_file": "H2S2JN.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104940",
+    "doom_name": "BLEMIL PLUS OPTIMUM 2 800G",
+    "doom_barcode": "8426594119300",
+    "vera_internal_reference": "TXQRL1",
+    "vera_name": "Blemil Plus Optimum 2 Milk 800g",
+    "matched_barcode": "8426594119300",
+    "image_file": "TXQRL1.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104942",
+    "doom_name": "BLEMIL PLUS OPTIMUM 3 800G",
+    "doom_barcode": "8426594119324",
+    "vera_internal_reference": "EOSN8H",
+    "vera_name": "Blemil Plus Optimum 3 Milk 800g",
+    "matched_barcode": "8426594119324",
+    "image_file": "EOSN8H.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "0000005796",
+    "doom_name": "bona well hot oil",
+    "doom_barcode": "4012800550322",
+    "vera_internal_reference": "O6EUMG",
+    "vera_name": "Bonawell WHEAT HOT OIL TREAMTMENT  225 ml",
+    "matched_barcode": "4012800550322",
+    "image_file": "O6EUMG.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101572",
+    "doom_name": "Braun Ear Thermometer 3",
+    "doom_barcode": "4022167230300",
+    "vera_internal_reference": "SKU-95HG4\n",
+    "vera_name": "Braun Thermoscan 3 Infrared Ear Thermometer IRT3030",
+    "matched_barcode": "4022167230300",
+    "image_file": "SKU-95HG4.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "0000005924",
+    "doom_name": "Braun thermo scan 7 ear",
+    "doom_barcode": "4022167652294",
+    "vera_internal_reference": "XDOACX",
+    "vera_name": "Braun Thermoscan 7 Ear Thermometer IRT6520",
+    "matched_barcode": "4022167652294",
+    "image_file": "XDOACX.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "100180",
+    "doom_name": "BRONCHICARE PLUS 150ML",
+    "doom_barcode": "6281147006078",
+    "vera_internal_reference": "SKU-1673\n",
+    "vera_name": "Bronchicare Plus Syrup 150 ML",
+    "matched_barcode": "6281147006078",
+    "image_file": "SKU-1673.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "101742",
+    "doom_name": "CLEAR SHAMPOO MEN COOL 190ML",
+    "doom_barcode": "6281006617780",
+    "vera_internal_reference": "sku6625cc",
+    "vera_name": "CLEAR SHAMPOO COOL MENTHOL 190ML",
+    "matched_barcode": "6281006617780",
+    "image_file": "sku6625cc.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "200556",
+    "doom_name": "CALAMYL LOTION 100ML",
+    "doom_barcode": "6221508140126",
+    "vera_internal_reference": "CVEYD9",
+    "vera_name": "Calamyl Lotion 100ml",
+    "matched_barcode": "6221508140126",
+    "image_file": "CVEYD9.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "102767",
+    "doom_name": "H&S Sh Smooth 600ml",
+    "doom_barcode": "4084500821538",
+    "vera_internal_reference": "sku-958fde5",
+    "vera_name": "Head & Shoulders SMOOTH SILKY Shampoo 600ml",
+    "matched_barcode": "4084500821538",
+    "image_file": "sku-958fde5.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "103849",
+    "doom_name": "PANTENE SHAM DAILY CARE 190ML",
+    "doom_barcode": "8001841590981",
+    "vera_internal_reference": "sku-k569ff",
+    "vera_name": "Pantene Pro-V DAILY CARE Shampoo 190ml",
+    "matched_barcode": "8001841590981",
+    "image_file": "sku-k569ff.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "103828",
+    "doom_name": "Pantene Conditioner SMOOTH&SILKY 360ML",
+    "doom_barcode": "4084500795648",
+    "vera_internal_reference": "sku-9965juy",
+    "vera_name": "Pantene SMOOTH & SILKY Conditioner 360ml",
+    "matched_barcode": "4084500795648",
+    "image_file": "sku-9965juy.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  },
+  {
+    "doom_code": "104171",
+    "doom_name": "SENSODYNE DEEP GEL 75 ML OFFER",
+    "doom_barcode": "6805699955006",
+    "vera_internal_reference": "33669",
+    "vera_name": "SENSODYNE Deep Clean Gel Toothpaste 75ml",
+    "matched_barcode": "6805699955006",
+    "image_file": "sku-33669.jpg",
+    "match_method": "barcode_then_internal_ref_to_filename"
+  }
+]
